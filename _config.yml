@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Yishu ZHANG"
+description              : #"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com.sg/citations?user=YBF2CF8AAAAJ&hl=en"
   email            : "zhangyishu@zju.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/Yishu-Zhang-2"
+  researchgate     :  "https://www.researchgate.net/profile/Yishu-Zhang-2"
   uri              :
   bitbucket        :
   codepen          :
