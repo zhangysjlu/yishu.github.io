@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
+  name             : "Yishu ZHANG"
+  avatar           : "images/IMG_9035.jpg"
   bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  location         : "Hangzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com.sg/citations?user=YBF2CF8AAAAJ&hl=en"
+  email            : "zhangyishu@zju.edu.cn"
+  researchgate     :  # e.g., "https://www.researchgate.net/profile/Yishu-Zhang-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -44,11 +44,11 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  dblp             : # e.g.
+  orcid            :  "https://orcid.org/0000-0003-2647-2375"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
